@@ -1,5 +1,4 @@
-# Written by the great Darcy Zhang
-
+# Written by Darcy Zhang
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
