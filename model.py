@@ -1,4 +1,4 @@
-# Written by the great Darcy Zhang
+
 
 import tensorflow as tf
 from tensorflow import keras
